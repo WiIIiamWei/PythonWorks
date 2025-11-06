@@ -104,7 +104,7 @@ celerybeat.pid
 *.mo
 *.cover
 
-
 # Resources
-PythonBasics/7_shpdata2
 PythonBasics/assets
+pyproject.toml
+uv.lock
