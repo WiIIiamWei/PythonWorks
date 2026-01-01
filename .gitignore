@@ -108,3 +108,8 @@ celerybeat.pid
 PythonBasics/assets
 pyproject.toml
 uv.lock
+PythonBasics/7_shpdata2
+PythonBasics/assets
+Final/data
+Final/Output
+Final/model
